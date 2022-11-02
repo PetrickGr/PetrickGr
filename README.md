@@ -15,7 +15,7 @@
   <img align="center" alt="Petrick-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg">
   <img align="center" alt="Petrick-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg">
   <img align="center" alt="Petrick-Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="right" alt="Petrick-gif" height="150" style="border-radius:50px;" src=https://media.tenor.com/ptl9U5YvK_wAAAAi/shiny-charizard-fire.gif>
+  <img align="right" alt="Petrick-gif" height="150" style="border-radius:50px;" src=https://64.media.tumblr.com/tumblr_m309yzdquq1qc3fjso1_500.gif>
 </div>
 
 ##
