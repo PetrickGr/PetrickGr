@@ -1,4 +1,4 @@
-## Hello, I'm Pétrick Grillo, Welcome to my profile! 👋🎃
+## Hello, I'm Pétrick Grillo, Welcome to my profile!
 
 <!-- <div align="center">
   <a href="https://github.com/PetrickGr">
